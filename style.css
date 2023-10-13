@@ -1,0 +1,31 @@
+body{
+    background-color: gold;
+}
+.h1style{
+    color: yellowgreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.images{
+    width: 90%;
+    height: 70%;
+}
+.subdiv{
+    float: left;
+    width: 20%;
+    height: auto;
+    border: 2px saddlebrown;
+    margin: 5px;
+    padding: left 10px; 
+
+}
+.mindiv{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    background-color: aqua;
+}
+.caption{
+    color: blue;
+    text-align: center;
+}
